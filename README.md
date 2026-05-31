@@ -45,7 +45,7 @@
 |GitHub         |Version control, portfolio management     |
 |Jira           |Bug tracking, task management (basics)    |
 |Chrome DevTools|Inspecting UI, network, console errors    |
-|uTest          |Crowd testing platform (member since 2017)|
+|uTest          |Crowd testing platform                    |
 
 -----
 
