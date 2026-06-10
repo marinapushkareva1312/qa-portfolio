@@ -42,7 +42,7 @@ Log out and log back in to force sync. Use Cowork Dispatch feature for cross-dev
 
 ## Attachments
 - ![Screenshot 1 - Desktop and Mobile out of sync](https://github.com/marinapushkareva1312/qa-portfolio/blob/main/bug-reports/IMG_9519.PNG)
-- ![Screenshot 2 - Anthropic response 1](ссылка2)
+- ![Screenshot 2 - Anthropic response 1](https://github.com/marinapushkareva1312/qa-portfolio/blob/main/bug-reports/IMG_9520.PNG)
 - ![Screenshot 3 - Anthropic response 2](ссылка3)
 - ![Screenshot 4 - Bug report sent](ссылка4)
 - ![Screenshot 5 - Message disappearance](ссылка5)
