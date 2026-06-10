@@ -41,9 +41,7 @@ Anthropic confirmed that regular Claude Desktop chats do not sync across devices
 Log out and log back in to force sync. Use Cowork Dispatch feature for cross-device syncing.
 
 ## Attachments
-## Attachments
-## Attachments
-- ![Screenshot 1 - Desktop and Mobile out of sync](ссылка1)
+- ![Screenshot 1 - Desktop and Mobile out of sync](https://github.com/marinapushkareva1312/qa-portfolio/blob/main/bug-reports/IMG_9519.PNG)
 - ![Screenshot 2 - Anthropic response 1](ссылка2)
 - ![Screenshot 3 - Anthropic response 2](ссылка3)
 - ![Screenshot 4 - Bug report sent](ссылка4)
